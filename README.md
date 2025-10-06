@@ -1,1 +1,1 @@
-saksham gondal timer , simple strealit interface  
+saksham gondal timer , simple streamlit interface  
